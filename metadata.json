@@ -1,0 +1,5 @@
+{
+  "name": "Domain Status Monitor",
+  "description": "A client-side domain status monitoring dashboard that can be deployed to Cloudflare Pages.",
+  "requestFramePermissions": []
+}
