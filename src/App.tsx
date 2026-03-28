@@ -157,7 +157,7 @@ export default function App() {
               <div className="p-2 bg-blue-600 text-white rounded-xl shadow-sm">
                 <Activity size={24} />
               </div>
-              <h1 className="text-3xl font-bold tracking-tight text-neutral-900">Domain Status Monitor</h1>
+              <h1 className="text-3xl font-bold tracking-tight text-neutral-900">probyteX Status</h1>
             </div>
             <p className="text-neutral-500 max-w-md">
               Monitor your domains and services. Green for normal, yellow for warnings (slow response), and red for errors.
